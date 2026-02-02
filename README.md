@@ -7,6 +7,8 @@ Recent projects:
 - html email templates
 - dating website (in progress) - laravel, vue
 - third party projects - laravel, vue
+
+  
 Active projects:
 - BOAA.ba - outdoors activities - https://dev.boaa.ba/ - laravel, livewire
 - konkrit.net - website - https://konkrit.net/ -  vanilla php, html, css, js
