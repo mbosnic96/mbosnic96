@@ -15,7 +15,7 @@ Active projects:
 - gcc-balkans - website with security checkups - https://gcc-balkans.ba/ -  vanilla php, html, css, js
 - vanilaphpldap - ldap connection/login trough webapp - recirects to custom page
 - flair.ba - website - https://flair.ba/ -  vanilla php, html, css, js
-- autohome.ba - website - https://fe.autohome.ba/ -  vanilla php, html, css, js
+- autohome.ba - website - https://dev.autohome.ba/ -  vanilla php, html, css, js
 - avillion - website - https://avillionllc.com/ -  vanilla php, html, css, js
 - dynaphase - website - https://dev.dynaphase.net/ -  vanilla php, html, css, js
 - biztruckingllc - website - https://biztruckingllc.com/ -  vanilla php, html, css, js
