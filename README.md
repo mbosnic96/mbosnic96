@@ -5,7 +5,7 @@ Recent projects:
 - lhtllc - website - no link - vanilla php, html, css, js
 - atnlogisticsllc - website - no link -  vanilla php, html, css, js
 - html email templates
-- dating website (in progress) - laravel, vue
+- dating website (in progress) - laravel, vue, native
 - third party projects - laravel, vue
 
   
